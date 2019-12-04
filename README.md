@@ -1,5 +1,5 @@
 
-## MSP'20 Web track - tasks plan
+## MSP'20 Web track - Tasks Plan
 
 # Basic Track
 
